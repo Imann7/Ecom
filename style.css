@@ -415,7 +415,7 @@ footer .social {
     display: none;
   }
   #about {
-    height: 125vh;
+    height: 135vh;
   }
   #about h1 {
     font-size: 40px;
@@ -440,7 +440,7 @@ footer .social {
     margin-bottom: 45px;
   }
   #projects {
-    height: 320vh;
+    height: 360vh;
   }
   #projects h1 {
     font-size: 40px;
@@ -469,7 +469,7 @@ footer .social {
     font-size: 25px;
   }
   #contact {
-    height: 140vh;
+    height: 160vh;
   }
   #contact h1 {
     font-size: 40px;
